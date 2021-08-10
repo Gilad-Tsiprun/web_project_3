@@ -1,0 +1,30 @@
+.cover__title {
+    z-index: 1;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+    position: absolute;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    text-align: center;
+    color: #FFFDFD;
+}
+
+@media screen and (max-width: 768px) {
+    .cover__title {
+        margin: 0 5%;
+        font-size: 32px;
+        line-height: 109%;
+        width: 90%;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .cover__title {
+        margin: 0;  
+        font-size: 72px;
+        line-height: 106%;
+        width: 656px;
+    }
+}

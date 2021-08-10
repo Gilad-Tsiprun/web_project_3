@@ -13,8 +13,10 @@ This is a project about traveling across the US. We've made it so all the elemen
 
 * [Link to the project on Figma](https://www.figma.com/file/AtbNbstbxWPcMqvF061V0R/Sprint-3%3A-From-Portland-to-Portland-%7C-desktop-%2B-mobile?node-id=0%3A1)
 
-**Images**
+**Github**
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
+* [Link to my project on Github](https://github.com/Phoenix801/web_project_3)
 
-Good luck and have fun!
+**Technologies Used**
+
+HTML 5 and CSS, Media Queries, BEM Methodology, Responsive Design with relative dimensions and Grid/Flexbox.

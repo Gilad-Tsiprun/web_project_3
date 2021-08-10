@@ -1,0 +1,17 @@
+.place__paragraphs {
+    display: block;
+}
+
+@media screen and (max-width: 425px) {
+    .place__paragraphs {
+        max-width: 100%;
+        margin: 0 5%;
+    }
+}
+
+@media screen and (min-width: 425px) {
+    .place__paragraphs {
+        max-width: 49.6630429306%;
+        margin: 0;
+    }
+}

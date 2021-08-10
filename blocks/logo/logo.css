@@ -1,0 +1,21 @@
+
+.logo {
+    margin-right: auto;
+}
+
+
+@media screen and (min-width: 320px) and (max-width: 768px) {
+    .logo {
+        min-width: 156px;
+        max-width: 190px;
+        min-height: 36px;
+        max-height: 44px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .logo {
+        min-width: 190px;
+        min-height: 44px;
+    }
+}

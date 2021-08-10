@@ -1,0 +1,8 @@
+.intro__text {
+    min-width: 100%;
+    margin: 0 auto 32px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    color: white;
+}

@@ -1,0 +1,16 @@
+@media screen and (max-width: 425px) {
+    .place__headings {
+        margin: 0 5% 9.8%;
+        display: block;
+    }
+}
+
+@media screen and (min-width: 425px) {
+    .place__headings {
+        margin: 0 0 48px;
+        display: flex;
+        align-items: flex-end;    
+        justify-content: space-between;
+        column-gap: 3.125%;
+    }
+}

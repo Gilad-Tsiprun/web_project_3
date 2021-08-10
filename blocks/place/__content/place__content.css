@@ -1,0 +1,13 @@
+@media screen and (max-width: 425px) {
+    .place__content {
+        display: block;
+    }
+}
+
+@media screen and (min-width: 425px) {
+    .place__content {
+        display: flex;
+        justify-content: space-between;
+        column-gap: 3.125%;
+    }
+}
