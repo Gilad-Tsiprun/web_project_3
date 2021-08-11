@@ -1,9 +1,9 @@
 .cover__subtitle {
     z-index: 1;
-    position: relative;
-    top: 51.25%;
+    /*position: relative;*/
+/*    top: 51.25%;
     left: 50%;
-    transform: translate(-50%, -51.25%);
+    transform: translate(-50%, -51.25%);*/
     font-family: Inter, serif;
     font-style: normal;
     font-weight: normal;
