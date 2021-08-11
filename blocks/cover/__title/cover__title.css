@@ -1,9 +1,9 @@
 .cover__title {
+    position: relative;
     z-index: 1;
-    top: 40%;
+    top: 48.75%;
     left: 50%;
-    transform: translate(-50%, -40%);
-    position: absolute;
+    transform: translate(-50%, -48.75%);
     font-family: Inter, serif;
     font-style: normal;
     font-weight: 900;
