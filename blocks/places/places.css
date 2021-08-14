@@ -8,13 +8,7 @@
     }
 }
 
-@media screen and (min-width: 425px) and (max-width: 768px) {
-    .places {
-        margin: 0 3.125% 89px;
-    }
-}
-
-@media screen and (min-width: 768px) and (max-width: 1024px) {
+@media screen and (min-width: 425px) and (max-width: 1024px) {
     .places {
         margin: 0 3.125% 89px;
     }

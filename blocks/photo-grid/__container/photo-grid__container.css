@@ -11,20 +11,20 @@
 @media screen and (min-width: 425px) and (max-width: 768px) {
     .photo-grid__container {
         grid-template: repeat(6, 1fr)/repeat(2, 1fr);
-        gap: 2.083333333%;
+        gap: 16px;
     }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1024px) {
     .photo-grid__container {
         grid-template: repeat(4, 1fr)/repeat(3, 1fr);
-        gap: 1.3671875%;
+        gap: 14px;
     }
 }
 
 @media screen and (min-width: 1024px) {
     .photo-grid__container { 
         grid-template: repeat(3, 1fr)/repeat(4, 1fr);
-        gap: 1.25%;
+        gap: 16px;
     }
 }
