@@ -16,7 +16,6 @@
 @import '../blocks/intro/__subtitle/intro__subtitle.css';
 @import '../blocks/intro/__list/intro__list.css';
 @import '../blocks/intro/__list-item/intro__list-item.css';
-@import '../blocks/intro/__list-item/_font-weight/intro__list-item_font-weight_light.css';
 @import '../blocks/photo-grid/photo-grid.css';
 @import '../blocks/photo-grid/__container/photo-grid__container.css';
 @import '../blocks/photo-grid/__item/photo-grid__item.css';
@@ -41,3 +40,4 @@
 @import '../blocks/footer/__link/footer__link.css';
 @import '../blocks/footer/__copyright/footer__copyright.css';
 @import '../blocks/opacity/opacity.css';
+@import '../blocks/light-font/light-font.css';
