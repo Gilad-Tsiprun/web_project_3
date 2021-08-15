@@ -2,19 +2,19 @@
     display: block;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 768px) {
     .photo-grid {
         margin: 0 5% 20%;
     }
 }
 
-@media screen and (min-width: 425px) and (max-width: 768px) {
+@media screen and (min-width: 768px) and (max-width: 1024px) {
     .photo-grid {
         margin: 0 3.125% 11.458333333%;
     }
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 1024px) {
     .photo-grid { 
         margin: 0 48px 7.1875%;
     }

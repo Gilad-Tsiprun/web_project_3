@@ -1,16 +1,21 @@
-@media screen and (max-width: 425px) {
+.footer {
+    display: flex;
+}
+
+@media screen and (max-width: 768px) {
     .footer {
         margin: 64px 5% 24px;
+        display: block;
     }
 }
 
-@media screen and (min-width: 425px) and (max-width: 768px) {
+@media screen and (min-width: 768px) and (max-width: 1024px) {
     .footer {
         margin: 88px 24px 24px;
     }
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 1024px) {
     .footer {
         margin: 92px 48px 24px;
     }

@@ -8,14 +8,14 @@
 }
 
 
-@media screen and (max-width: 425px) {
-    .photo-grid__container {
-        margin: 0 0 3.75%;
+@media screen and (max-width: 768px) {
+    .photo-grid__item {
+        margin: 0 0 12px;
     }
 }
 
-@media screen and (min-width: 425px) {
-    .photo-grid__container {
+@media screen and (min-width: 768px) {
+    .photo-grid__item {
         margin: 0;
     }
 }
