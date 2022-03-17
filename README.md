@@ -15,7 +15,7 @@ This is a project about traveling across the US. We've made it so all the elemen
 
 **Github**
 
-* [Link to my project on Github](https://phoenix801.github.io/web_project_3/)
+* [Link to my project on Github](https://gilad-tsiprun.github.io/web_project_3/)
 
 **Technologies Used**
 
